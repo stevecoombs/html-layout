@@ -1,0 +1,43 @@
+html, body{
+	height: 100%;
+	background-color: black;
+}
+.header-black{
+	background-color: #3c3c3c;
+	height: 165px;
+
+}
+
+.grey-bg{
+	float: left;
+	background-color: #D2D2D2;
+
+}
+
+.asides{
+	float: left;
+	width: 20%;
+	height: 75%;
+
+}
+
+.content{
+	float: left;
+	height: 65%;
+	width: 60%;
+	background-color: white;
+
+}
+
+.left-grey{
+	float: right;
+	background-color: #D2D2D2;
+	width: 20%;
+	height: 75%;
+
+}
+
+.bottom-black{
+
+
+}
